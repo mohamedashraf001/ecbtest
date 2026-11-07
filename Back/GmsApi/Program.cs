@@ -9,4 +9,4 @@ app.MapGet("/", () => Results.Ok(new {
 
 app.MapGet("/ping", () => "Pong from Backend!");
 
-app.Run();
+app.Run(); 
