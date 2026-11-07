@@ -1,0 +1,7 @@
+D:\devopsp\Back\test-publish\GmsApi.exe
+D:\devopsp\Back\test-publish\appsettings.Development.json
+D:\devopsp\Back\test-publish\appsettings.json
+D:\devopsp\Back\test-publish\GmsApi.dll
+D:\devopsp\Back\test-publish\GmsApi.deps.json
+D:\devopsp\Back\test-publish\GmsApi.runtimeconfig.json
+D:\devopsp\Back\test-publish\GmsApi.pdb
